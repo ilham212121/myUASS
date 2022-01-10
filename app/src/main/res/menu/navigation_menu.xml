@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_tgselatan"
+            android:icon="@drawable/ic_baseline_school_tgselatan"
+            android:title="Profil"/>
+        <item android:id="@+id/nav_tgtimur"
+            android:icon="@drawable/ic_baseline_school_tgtimur"
+            android:title="Tegal Timur"/>
+        <item android:id="@+id/nav_barat"
+            android:icon="@drawable/ic_baseline_school_tgbarat"
+            android:title="Tegal Barat"/>
+        <item android:id="@+id/nav_margadana"
+            android:icon="@drawable/ic_baseline_school_margadana"
+            android:title="Margadana"/>
+
+    </group>
+
+
+
+</menu>
